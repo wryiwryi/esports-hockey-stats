@@ -1,0 +1,11 @@
+Player Player1 salary report for 2025-09
+Played games: 24
+Cancelled games: 0
+Shifts: 2.0
+Wins: 8
+Draws: 2
+Winrate: 41.7 %
+Total salary: $2220.0
+Average bonus per shift: $50.0
+Average per game: $92.5
+Cancelled games per day: {}
